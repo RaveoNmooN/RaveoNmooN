@@ -1,5 +1,4 @@
 ### Hi there 👋
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=RaveoNmooN&label=Profile%20views&color=0e75b6&style=flat" alt="RaveoNmooN" /> </p>
 
 ### 📊 My Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RaveoNmooN&theme=dark&count_private=true&theme=radical)](https://github.com/RaveoNmooN)
